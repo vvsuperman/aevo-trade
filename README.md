@@ -1,13 +1,21 @@
 从 https://github.com/shuail0/aevoTrading  魔改
+
 请谨慎食用，请勿在晚上使用，避免单边行情
 加入
+
 1 钱包批量刷
+
 todo
+
 1 vpn
+
 2 与其它dex联动
 
+
 使用方式 
+
 .env 配置一个钱包，用于监控行情
+
 constant为钱包列表，用于刷量
 
 
